@@ -7,9 +7,11 @@ sections:
     colors: colors-a
     title: 'From big cities, to small towns, we sell YOU.'
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      Lake City Digital is a branding, advertising, marketing, development
+      agency with offices in both Los Angeles, California and Coeur d'Alene,
+      Idaho.  Our name is centered around the philosophy that our work should
+      best capture a businesses essence, as embark to build business identities
+      for both urban and rural clientele.
     actions:
       - type: Button
         label: Sign up
