@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-h
+    colors: colors-b
     title: 'From big cities, to small towns, we sell YOU.'
     text: >
       Lake City Digital is a branding, advertising, marketing, development
