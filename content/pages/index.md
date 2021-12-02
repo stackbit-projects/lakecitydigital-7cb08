@@ -171,7 +171,7 @@ sections:
     type: MediaGallerySection
   - colors: colors-h
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Remote doesn’t mean alone. We are here for you every step of the way.
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
