@@ -217,8 +217,8 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Our processes are catered to our clients in order to best represent
-          their best selves.
+          Our processes are catered to our clients in order to represent their
+          best selves.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
