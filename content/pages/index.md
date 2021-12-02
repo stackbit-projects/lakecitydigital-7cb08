@@ -490,8 +490,8 @@ sections:
     colors: colors-f
     title: Get info About Us
     text: >
-      Sign up your team today to be the first to try out our new product to
-      increae your team’s productivity
+      If  you want more info about us, drop us your email and someone willl be
+      in touch.
     form:
       type: FormBlock
       elementId: contact-form
