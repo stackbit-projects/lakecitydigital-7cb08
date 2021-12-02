@@ -217,8 +217,8 @@ sections:
       - type: FeaturedItem
         title: Focused
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Our processes are catered to our clients in order to best represent
+          their best selves.
         featuredImage:
           url: /images/focused.svg
           altText: altText of the image
