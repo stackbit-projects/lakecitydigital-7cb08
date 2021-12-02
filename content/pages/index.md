@@ -8,7 +8,7 @@ sections:
     title: 'From big cities, to small towns, we sell YOU.'
     text: >
       Lake City Digital is a branding, advertising, marketing, development
-      agency with offices in both Los Angeles, California and \</p>
+      agency with offices in both Los Angeles, California and \<br />
 
       Coeur d'Alene, Idaho.
 
