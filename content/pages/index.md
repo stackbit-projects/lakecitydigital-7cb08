@@ -10,8 +10,8 @@ sections:
       Lake City Digital is a branding, advertising, marketing, development
       agency with offices in both Los Angeles, California and Coeur d'Alene,
       Idaho.  Our name is centered around the philosophy that our work should
-      best capture a businesses essence, as embark to build business identities
-      for both urban and rural clientele.
+      best capture a businesses essence, as we embark to build positive
+      relatable identities for both urban and rural clientele.
     actions:
       - type: Button
         label: Sign up
