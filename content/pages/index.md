@@ -173,8 +173,8 @@ sections:
     elementId: ''
     title: Remote doesn’t mean alone. We are here for you every step of the way.
     subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+      We're grown adults. We know how to get things done. No barriers. No
+      worries.
     items:
       - type: FeaturedItem
         title: Faster
