@@ -14,10 +14,10 @@ sections:
 
 
       Our name is centered around the philosophy that our work   should best
-      capture a businesses essence,   
+      capture a businesses essence,as we embark to build positive relatable
+      identities  
 
-      as we embark to build positive relatable identities for both urban and
-      rural clientele.
+      for both urban and rural clientele.
     actions:
       - type: Button
         label: Sign up
