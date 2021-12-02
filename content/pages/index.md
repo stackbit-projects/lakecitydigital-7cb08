@@ -103,7 +103,6 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    subtitle: test
   - colors: colors-h
     elementId: ''
     images:
