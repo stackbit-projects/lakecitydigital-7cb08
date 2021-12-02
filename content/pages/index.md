@@ -263,9 +263,8 @@ sections:
   - elementId: ''
     colors: colors-a
     title: SEO?....Check.
-    text: >
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      Fantastic SEO results from day 1 for our web clients.
     media:
       type: ImageBlock
       url: /images/Image-on-the-right.svg
