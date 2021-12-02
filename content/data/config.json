@@ -84,7 +84,7 @@
             "phoneAltText": "Our phone",
             "email": "info@lorem.mail",
             "emailAltText": "Our email",
-            "address": "16321 PCH Pacific Palisades, Ca. 90272",
+            "address": "16321 PCH \nPacific Palisades, Ca. 90272",
             "addressAltText": "Our address"
         },
         "copyrightText": "Powered by Stackbit",
