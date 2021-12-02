@@ -490,8 +490,8 @@ sections:
     colors: colors-f
     title: Get info About Us
     text: >
-      If  you want more info about us, drop us your email and someone willl be
-      in touch.
+      If  you want more info about us, drop us your email and someone will be in
+      touch.
     form:
       type: FormBlock
       elementId: contact-form
