@@ -488,7 +488,7 @@ sections:
     type: TestimonialsSection
   - type: ContactSection
     colors: colors-f
-    title: Get early access
+    title: Get info About Us
     text: >
       Sign up your team today to be the first to try out our new product to
       increae your team’s productivity
