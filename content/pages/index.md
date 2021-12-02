@@ -13,7 +13,7 @@ sections:
       and Coeur d'Alene, Idaho.
 
 
-      Our name is centered around the philosophy
+      Our name is centered around the philosophy,
 
       that our work   should best capture a businesses essence,
 
