@@ -55,9 +55,8 @@ sections:
   - elementId: ''
     colors: colors-f
     title: Who are you?
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: |
+      We like to peel back your onion to create the best brand awareness.
     actions:
       - type: Button
         label: Sign Up
