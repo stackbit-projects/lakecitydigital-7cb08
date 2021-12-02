@@ -8,14 +8,16 @@ sections:
     title: 'From big cities, to small towns, we sell YOU.'
     text: >
       Lake City Digital is a branding, advertising, marketing, development
-      agency with offices in Pacific Palisades, California and  
+      agency with offices in Pacific Palisades, California and\
 
       Coeur d'Alene, Idaho.
 
 
       Our name is centered around the philosophy that our work   should best
-      capture a businesses essence,   as we embark to build positive relatable
-      identities for both urban and rural clientele.
+      capture a businesses essence,   
+
+      as we embark to build positive relatable identities for both urban and
+      rural clientele.
     actions:
       - type: Button
         label: Sign up
