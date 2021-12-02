@@ -197,8 +197,9 @@ sections:
       - type: FeaturedItem
         title: Smarter
         text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+          Our products are designed and developed beyond industry standards and
+          are always pushing through barriers to deliver the best result for our
+          clients.
         featuredImage:
           url: /images/smarter.svg
           altText: altText of the image
