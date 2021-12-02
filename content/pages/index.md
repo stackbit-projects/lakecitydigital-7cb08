@@ -54,7 +54,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    title: 'Who '
+    title: 'Who is your '
     text: >
       Learn how top tech companies have learned working remote using our
       product.
