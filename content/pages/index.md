@@ -178,9 +178,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          We can have your ideas to market fast. Like "LickitySplit".
         featuredImage:
           url: /images/faster.svg
           altText: altText of the image
