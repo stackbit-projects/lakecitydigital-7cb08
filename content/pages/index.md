@@ -61,8 +61,9 @@ sections:
   - elementId: ''
     colors: colors-f
     title: Who are you?
-    text: |
-      We like to peel back your onion to create the best brand awareness.
+    text: >
+      We like to peel back your onion to create the best brand recognition and
+      awareness possible for you and your clients or customers.
     actions:
       - type: Button
         label: Sign Up
