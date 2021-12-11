@@ -66,7 +66,7 @@ sections:
       awareness possible for you and your clients or customers.
     actions:
       - type: Button
-        label: Sign Up
+        label: Learn More
         url: /
         style: primary
       - type: Link
