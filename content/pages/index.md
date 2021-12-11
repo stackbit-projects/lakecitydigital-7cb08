@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'From big cities, to small towns, we sell YOU.'
+    title: 'From big cities, to small towns, we get YOU.'
     text: >
       Lake City Digital is a branding, advertising, marketing, development
       agency with offices in Pacific Palisades, California  
