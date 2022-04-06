@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'From corporate, to country, we embody YOU.'
+    title: 'From corporate to country, we embody YOU.'
     text: |
       Lake City Digital is an web-based
       branding, advertising, marketing, development agency,
