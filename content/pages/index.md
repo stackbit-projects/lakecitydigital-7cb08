@@ -64,7 +64,7 @@ sections:
     title: Who are you?
     text: >
       We like to peel back your onion to create the best brand recognition and
-      awareness possible for you and your clients or customers.
+      awareness possible for you and your target demographic.
     actions:
       - type: Button
         label: Learn More
