@@ -20,7 +20,7 @@ sections:
       and rural clientele.
     actions:
       - type: Button
-        label: Know More
+        label: LearnMore
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
