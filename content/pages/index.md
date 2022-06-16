@@ -16,7 +16,7 @@ sections:
       that our work should always best capture
       a businesses essence,
       as we embark to build positive,
-      relatable identities for both our urban
+      relatable identities for both urban
       and rural clientele.
     actions:
       - type: Button
