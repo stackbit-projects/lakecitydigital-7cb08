@@ -24,6 +24,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+        altText: Learn More Button
     media:
       type: ImageBlock
       url: /images/twinlakes.jpg
